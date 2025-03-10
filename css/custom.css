@@ -1,10 +1,8 @@
-/* Custom font styles for the site title */
-h1.site-title {
-    font-family: 'Arial', sans-serif; /* Change font family */
-    font-weight: bold; /* Make the title bold */
-    font-size: 3rem; /* Adjust the font size */
-    color: #4CAF50; /* Change the title color */
-    text-transform: uppercase; /* Make the title uppercase */
-    text-align: center; /* Center the title */
-    letter-spacing: 2px; /* Add some spacing between letters */
+/* Calligraphy Font Style */
+.calligraphy-font {
+  font-family: 'Sabrina', cursive !important;
+     font-size: 4rem;
+     color: #1a1a1a;;
+     font-weight: bold;
+     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
