@@ -177,7 +177,6 @@ tr:nth-child(even) { background: #eee }
 p, ul, ol, h1, h2, h3, h4, h5, h6 {
     overflow-wrap: break-word;
 }
-<<<<<<< HEAD
 
 .logo-container {
     display: flex;
@@ -192,5 +191,3 @@ p, ul, ol, h1, h2, h3, h4, h5, h6 {
     font-size: 24px;
     font-family: "Cursive", serif;
 }
-=======
->>>>>>> 52413bf7e3a8f42ba54f5a945376acd6a1a3412b
