@@ -29,5 +29,36 @@
       <guid>/categories/hugo/</guid>
       <description></description>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Machine Learning</title>
+      <link>/categories/machine-learning/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leekaso</title>
+      <link>/categories/leekaso/</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/categories/leekaso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>/categories/tech/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>/categories/statistics/</link>
+      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/categories/statistics/</guid>
+      <description></description>
+    </item>
+>>>>>>> 52413bf7e3a8f42ba54f5a945376acd6a1a3412b
   </channel>
 </rss>

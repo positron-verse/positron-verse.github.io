@@ -64,5 +64,15 @@
       <guid>/tags/rstudio/</guid>
       <description></description>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>/tags/lorem-ipsum/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+>>>>>>> 52413bf7e3a8f42ba54f5a945376acd6a1a3412b
   </channel>
 </rss>
